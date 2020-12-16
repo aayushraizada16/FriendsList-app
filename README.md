@@ -1,6 +1,6 @@
 # FriendsList-app
 
-This application is based for creating freindlist.
+This application is based on DFS Algorithm for undirected graph.
 The below mentioned tasks can be performed through this application - 
 
 1. A user should be able to create his profile.  
