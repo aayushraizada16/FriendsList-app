@@ -7,7 +7,7 @@ The below mentioned tasks can be performed through this application -
 2. A user should be able to add another user in his friend list. Friend list is mutual i.e if A is friend of B, then B is also friend of A. 
 3. A user should be able to remove another user from his friend list. 
 4. A user should be able to view his friend list. 
-5. Given an input integer K, a user should be able to view all connections at distance K from him. 
+5. A user should be able to view all connections at distance K from him. 
 
 
 ### Application requirements
