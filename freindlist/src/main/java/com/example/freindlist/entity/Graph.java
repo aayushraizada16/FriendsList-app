@@ -14,11 +14,7 @@ public class Graph {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Integer id;
-    private Integer V;
-
-
-    private ArrayList<ArrayList<Integer>> adjListArray;
-
+   
     private Integer src;
     private Integer dest;
 
