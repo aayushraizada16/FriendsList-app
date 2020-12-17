@@ -27,8 +27,8 @@ There is no need to use any script to create a Database as I used here  Spring J
             {
                     "id": 1,
                     "phone": 9560120760,
-                    "name": "mama",
-                    "email": "mama@gmail.com"
+                    "name": "abc",
+                    "email": "abc@gmail.com"
              }
              ```
 > Note: Please enter the `id` in the contigous fashion while creating new user
